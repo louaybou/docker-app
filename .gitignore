@@ -1,0 +1,3 @@
+# Ignorer les fichiers sensibles et dépendances dans backend
+backend/.env
+backend/node_modules/
